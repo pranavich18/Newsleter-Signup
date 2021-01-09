@@ -81,11 +81,7 @@ app.listen(process.env.PORT || 3000,function(){
 
 
 
-////API KEy
-//56bfb54fbf13fb71598b50fb91bf44f3-us7
 
-//Audience ID
-//6e10aa28a0
 
 //Deployed Website
 // https://glacial-cove-14206.herokuapp.com/
